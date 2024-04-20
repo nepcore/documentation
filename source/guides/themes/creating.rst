@@ -24,7 +24,7 @@ The ``manifest.json`` file contains some information about your theme and how it
 JSON and should always contain a JSON object at the root. Various fields within this object configure aspects of how
 PufferPanel handles your theme.
 
-+========================+=========+=========+===========+===========================================================================================+
++------------------------+---------+---------+-----------+-------------------------------------------------------------------------------------------+
 | field                  | version | type    | default   | description                                                                               |
 +========================+=========+=========+===========+===========================================================================================+
 | ``keepDefaultCss``     | ≥ 3.0.0 | boolean | ``false`` | Whether to keep the default themes CSS.                                                   |
