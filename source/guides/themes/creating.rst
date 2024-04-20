@@ -65,6 +65,7 @@ as the default value by setting the ``default`` key to ``true``, if no option is
 having multiple options marked as default is undefined and may or may not cause errors.
 
 Example:
+
 .. code-block:: json
 
     {
@@ -112,6 +113,7 @@ transparent, decimals for anything in between.
 hue circle, negative values are allowed here, 360 is a full circle and wraps back around to the starting color.
 
 Example:
+
 .. code-block:: json
 
     {
